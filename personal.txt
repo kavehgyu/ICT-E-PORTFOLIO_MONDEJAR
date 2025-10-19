@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>♡ My Personal Space ♡</title>
+</head>
+<body background="Images/mualanibg.jpg" style="background-size: cover; background-repeat: no-repeat; background-position: center; margin: 0; font-family:'Verdana'; margin:0;">
+
+<div style="max-width:1000px; margin:auto; background-color:#faeed4; border:4px solid #50bdec; border-radius:20px; padding:25px; box-shadow:0 0 15px #a4e1f8; margin-top:40px;">
+
+  <!-- Top Navigation -->
+  <div style="display:flex; justify-content:center; gap:30px; background-color:#f0fbff; border:3px solid #f5da8d; border-radius:15px; padding:15px; margin-bottom:25px;">
+    <a href="ICT PORTFOLIO.html" style="background-color:#f5da8d; color:#357f9b; text-decoration:none; padding:10px 25px; border-radius:10px; font-weight:bold;">Home</a>
+    <a href="ict.html" style="background-color:#50bdec; color:#ffffff; text-decoration:none; padding:10px 25px; border-radius:10px; font-weight:bold;"> ICT</a>
+    <a href="ap.html" style="background-color:#ee8bb0; color:#ffffff; text-decoration:none; padding:10px 25px; border-radius:10px; font-weight:bold;"> AP</a>
+  </div>
+
+  <div style="text-align:center; background-color:#ee8bb0; border:3px solid #50bdec; border-radius:15px; padding:20px;">
+    <h1 style="color:white; font-size:28px; margin:0;"> My Personal Space </h1>
+    <p style="color:#fdf5e6;">a glipmse of my life </p>
+  </div>
+
+  <div style="background-color:#f0fbff; border:3px dashed #f5da8d; border-radius:15px; padding:25px; margin-top:25px;">
+    <h2 style="color:#50bdec; text-align:center;">₊˚♡ Personal Details ♡₊˚</h2>
+    <p style="color:#357f9b; font-size:18px; text-align:center;">
+      <b>Name:</b> Mykyla Faith U. Mondejar <br>
+      <b>Age:</b> 14 turning 15 !!!<br>
+      <b>Birthday:</b> December 28, 2010<br>
+      <b>Favorites:</b> <ul style="list-style-type:'♡︎.ᐟજ⁀➴'; color:#357f9b; font-size:16px; line-height:1.8; padding-left:40px;text-align:center;">
+    <li> Any form of art like drawing, singing, dancing, painting, ect. ! </li>
+    <li> The coors blue, purple, and pink <3 </li>
+    <li> Chicken, eggs, water, korean food</li>
+    <li> Hyperpop, creepy, comforting music genres </li>
+    <li> Genshin Impact, Valorant, Minecraft, and other indie games</li>
+  </ul>
+    </p>
+    <div style="display:flex; justify-content:center; gap:15px; margin-top:15px; flex-wrap:wrap;">
+      <img src="me1.jpg" style="width:200px; border:3px solid #ee8bb0; border-radius:15px;">
+      <img src="me2.jpg" style="width:200px; border:3px solid #f5da8d; border-radius:15px;">
+    </div>
+  </div>
+
+  <div style="background-color:#f0fbff; border:3px dashed #ee8bb0; border-radius:15px; padding:25px; margin-top:25px;">
+    <h2 style="color:#ee8bb0; text-align:center;">₊˚♡ Circle of Friends ♡₊˚</h2>
+    <p style="color:#357f9b; font-size:18px; text-align:center;">
+      These are my bestest friends ever !!!!!<br>
+      We do everything together and share funny moments. I really love them and they really saved me from bad situations that could've happened to me and i appreciate them a lot for it <3
+    </p>
+    <div style="display:flex; justify-content:center; gap:15px; margin-top:15px; flex-wrap:wrap;">
+      <img src="C:\Users\Mykyla\Documents\kyla\e-portfolio\Images\Friends1.jpg" style="width:200px; border:3px solid #f5da8d; border-radius:15px;">
+      <img src="C:\Users\Mykyla\Documents\kyla\e-portfolio\Images\Friends2.jpg" style="width:200px; border:3px solid #50bdec; border-radius:15px;">
+    </div>
+</div>
+
+  <div style="background-color:#f0fbff; border:3px dashed #50bdec; border-radius:15px; padding:25px; margin-top:25px;">
+    <h2 style="color:#50bdec; text-align:center;">₊˚♡ My Family ♡₊˚</h2>
+    <p style="color:#357f9b; font-size:18px; text-align:center;">
+      MY FAMM <br>
+      💗
+    </p>
+    <div style="display:flex; justify-content:center; gap:15px; margin-top:15px; flex-wrap:wrap;">
+      <img src="fam1.jpg" style="width:200px; border:3px solid #f5da8d; border-radius:15px;">
+      <img src="fam2.jpg" style="width:200px; border:3px solid #ee8bb0; border-radius:15px;">
+     <video controls style="width:400px; border-radius:10px; border:3px solid #f5da8d;">
+  <source src="Images/famvideo.mp4" type="video/mp4">
+    </div>
+  </div>
+
+  <div style="text-align:center; margin-top:30px; font-size:12px; color:#357f9b;">
+    <p>♡ </p>
+  </div>
+
+</div>
+</body>
+</html>

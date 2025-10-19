@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>♡ ICT Portfolio ♡</title>
+  <style>
+    html {
+      scroll-behavior: smooth;
+    }
+  </style>
+</head>
+
+<body background="Images/mualanibg.jpg" style="background-size: cover; background-repeat: no-repeat; background-position: center; margin: 0; font-family:'Verdana';">
+
+<div style="max-width:1000px; margin:auto; background-color:#ffffff; border:4px solid #50bdec; border-radius:20px; padding:25px; box-shadow:0 0 15px #a4e1f8; margin-top:40px;">
+
+  <div style="display:flex; justify-content:center; gap:30px; background-color:#f0fbff; border:3px solid #f5da8d; border-radius:15px; padding:15px; margin-bottom:25px;">
+    <a href="ICT PORTFOLIO.html" style="background-color:#f5da8d; color:#357f9b; text-decoration:none; padding:10px 25px; border-radius:10px; font-weight:bold; box-shadow:0 0 5px #f5da8d;">Home</a>
+    <a href="ict.html" style="background-color:#50bdec; color:#ffffff; text-decoration:none; padding:10px 25px; border-radius:10px; font-weight:bold; box-shadow:0 0 5px #a4e1f8;">ICT</a>
+    <a href="ap.html" style="background-color:#ee8bb0; color:#ffffff; text-decoration:none; padding:10px 25px; border-radius:10px; font-weight:bold; box-shadow:0 0 5px #ee8bb0;">AP</a>
+  </div>
+
+  <div style="text-align:center; background-color:#50bdec; border:3px solid #ee8bb0; border-radius:15px; padding:20px;">
+    <h1 style="color:#ffffff; font-size:30px; margin:0; text-shadow:0 0 5px #f5da8d;">₊˚⊹♡ ICT Portfolio ♡₊˚⊹</h1>
+    <p style="color:#fdf5e6; font-size:14px;">YAY ICT TIME !</p>
+  </div>
+
+  <div style="display:flex; justify-content:center; gap:20px; background-color:#f0fbff; border:3px dashed #f5da8d; border-radius:15px; padding:15px; margin:25px 0;">
+    <a href="#browser" style="background-color:#f5da8d; color:#357f9b; text-decoration:none; padding:10px 20px; border-radius:10px; font-weight:bold;">Browser Example</a>
+    <a href="#lessons" style="background-color:#50bdec; color:#ffffff; text-decoration:none; padding:10px 20px; border-radius:10px; font-weight:bold;">Short Descriptions</a>
+    <a href="#reflection" style="background-color:#ee8bb0; color:#ffffff; text-decoration:none; padding:10px 20px; border-radius:10px; font-weight:bold;">Reflection</a>
+    <a href="#events" style="background-color:#f5da8d; color:#357f9b; text-decoration:none; padding:10px 20px; border-radius:10px; font-weight:bold;">Events</a>
+  </div>
+
+  <!-- Browser Examples -->
+  <section id="browser" style="text-align:center; margin-top:40px;">
+    <h2 style="color:#50bdec;">Browser Example</h2>
+    <p style="color:#357f9b;">Here are the examples for the lessons of ICT (^^ゞ)</p>
+
+    <!-- Lesson 1 -->
+    <div style="background-color:#f0fbff; border:2px solid #50bdec; border-radius:15px; padding:15px; margin:20px auto; width:85%;">
+      <h3 style="color:#1a3d7c;">Lesson 1: Introduction to CSS</h3>
+      <p style="color:#357f9b;">This example shows how inline CSS changes text color and background 💙</p>
+      <table style="width:100%; text-align:center;">
+        <tr>
+          <td style="width:50%;">
+            <iframe srcdoc="
+              <html>
+                <body style='background-color:#f5da8d; font-family:Verdana; text-align:center;'>
+                  <h3 style=\'color:#357f9b;\'>Mualani is my fave character ever !!!!</h3>
+                  <p style=\'color:#ffffff; background:#50bdec; display:inline-block; padding:5px 10px; border-radius:8px;\'>SHES THE BEST!</p>
+                </body>
+              </html>
+            " style="width:90%; height:150px; border:2px solid #a4e1f8; border-radius:10px;"></iframe>
+          </td>
+          <td style="width:50%;">
+            <img src="Images/Example1.jpg" alt="Lesson 1 Code" style="width:90%; border:3px solid #50bdec; border-radius:10px; box-shadow:0 0 5px #a4e1f8;">
+          </td>
+        </tr>
+      </table>
+    </div>
+
+    <!-- Lesson 2 -->
+    <div style="background-color:#fff9ec; border:2px solid #f5da8d; border-radius:15px; padding:15px; margin:20px auto; width:85%;">
+      <h3 style="color:#1a3d7c;">Lesson 2: Style Sheets</h3>
+      <p style="color:#357f9b;">Internal CSS example using a style block in the head 💛</p>
+      <table style="width:100%; text-align:center;">
+        <tr>
+          <td style="width:50%;">
+            <iframe srcdoc="
+              <html>
+                <head>
+                  <style>
+                    p { color:#ee8bb0; font-family:Verdana; }
+                  </style>
+                </head>
+                <body style='background:#f0fbff; text-align:center;'>
+                  <p>Kininch and Kachina are her best friends ! <3</p>
+                </body>
+              </html>
+            " style="width:90%; height:150px; border:2px solid #f5da8d; border-radius:10px;"></iframe>
+          </td>
+          <td style="width:50%;">
+            <img src="Images/Example2.jpg" alt="Lesson 2 Code" style="width:90%; border:3px solid #f5da8d; border-radius:10px; box-shadow:0 0 5px #f5da8d;">
+          </td>
+        </tr>
+      </table>
+    </div>
+
+    <!-- Lesson 3 -->
+    <div style="background-color:#fdf2f7; border:2px solid #ee8bb0; border-radius:15px; padding:15px; margin:20px auto; width:85%;">
+      <h3 style="color:#1a3d7c;">Lesson 3: CSS Rules</h3>
+      <p style="color:#357f9b;">Selectors and declarations define how elements are styled 💗</p>
+      <table style="width:100%; text-align:center;">
+        <tr>
+          <td style="width:50%;">
+            <iframe srcdoc="
+              <html>
+                <head>
+                  <style>
+                    h3 { color:#50bdec; }
+                    p { color:#357f9b; }
+                  </style>
+                </head>
+                <body style='text-align:center;'>
+                  <h3>She loves them deeply</h3>
+                  <p>She shows them so much love and support !</p>
+                </body>
+              </html>
+            " style="width:90%; height:150px; border:2px solid #ee8bb0; border-radius:10px;"></iframe>
+          </td>
+          <td style="width:50%;">
+            <img src="Images/Example3.jpg" alt="Lesson 3 Code" style="width:90%; border:3px solid #ee8bb0; border-radius:10px; box-shadow:0 0 5px #ee8bb0;">
+          </td>
+        </tr>
+      </table>
+    </div>
+
+    <!-- Lesson 4 -->
+    <div style="background-color:#f0fbff; border:2px solid #50bdec; border-radius:15px; padding:15px; margin:20px auto; width:85%;">
+      <h3 style="color:#1a3d7c;">Lesson 4: CSS Properties</h3>
+      <p style="color:#357f9b;">Font, color, and box properties give elements their look 💙</p>
+      <table style="width:100%; text-align:center;">
+        <tr>
+          <td style="width:50%;">
+            <iframe srcdoc="
+              <html>
+                <head>
+                  <style>
+                    h2 { color:#f5da8d; font-family:Verdana; }
+                    p { color:#50bdec; background:#f0fbff; border:1px solid #357f9b; border-radius:8px; padding:5px; }
+                  </style>
+                </head>
+                <body style='text-align:center;'>
+                  <h2>Box Model Example</h2>
+                  <p>This paragraph has padding, border, and color!</p>
+                </body>
+              </html>
+            " style="width:90%; height:150px; border:2px solid #50bdec; border-radius:10px;"></iframe>
+          </td>
+          <td style="width:50%;">
+            <img src="Images/Example4.jpg" alt="Lesson 4 Code" style="width:90%; border:3px solid #50bdec; border-radius:10px; box-shadow:0 0 5px #50bdec;">
+          </td>
+        </tr>
+      </table>
+    </div>
+
+    <!-- Lesson 5 -->
+    <div style="background-color:#fff9ec; border:2px solid #f5da8d; border-radius:15px; padding:15px; margin:20px auto; width:85%;">
+      <h3 style="color:#1a3d7c;">Lesson 5: Classes</h3>
+      <p style="color:#357f9b;">Classes apply reusable styles to multiple elements 💛</p>
+      <table style="width:100%; text-align:center;">
+        <tr>
+          <td style="width:50%;">
+            <iframe srcdoc="
+              <html>
+                <head>
+                  <style>
+                    .highlight { color:#ee8bb0; font-weight:bold; }
+                    .fancy { background:#f0fbff; border:2px solid #50bdec; border-radius:8px; padding:5px; }
+                  </style>
+                </head>
+                <body style='text-align:center;'>
+                  <p class='highlight'>This is a highlighted text!</p>
+                  <p class='fancy'>This one uses a fancy class design!</p>
+                </body>
+              </html>
+            " style="width:90%; height:150px; border:2px solid #f5da8d; border-radius:10px;"></iframe>
+          </td>
+          <td style="width:50%;">
+            <img src="Images/Example5.jpg" alt="Lesson 5 Code" style="width:90%; border:3px solid #f5da8d; border-radius:10px; box-shadow:0 0 5px #f5da8d;">
+          </td>
+        </tr>
+      </table>
+    </div>
+
+  </section>
+
+  <!-- Short Descriptions (only Lessons 1–2) -->
+  <section id="lessons" style="margin-top:40px;">
+    <h2 style="color:#ee8bb0; text-align:center;">Short Description of Each Lesson</h2>
+    <div style="display:flex; flex-direction:column; gap:20px; margin-top:20px;">
+
+      <div style="background-color:#f0fbff; border:2px solid #50bdec; border-radius:15px; padding:15px;">
+        <h3 style="color:#1a3d7c;">Lesson 1: Introduction to CSS</h3>
+        <p><b>CSS (Cascading Style Sheets)</b>: A stylesheet language used to describe the presentation of a document written in HTML or XML.</p>
+        <p><b>Importance:</b> CSS enhances the design and layout of web pages, allowing for separation of content from presentation.</p>
+      </div>
+
+      <div style="background-color:#fff9ec; border:2px solid #f5da8d; border-radius:15px; padding:15px;">
+        <h3 style="color:#1a3d7c;">Lesson 2: Style Sheets</h3>
+        <ul>
+          <li><b>External Stylesheet:</b> Linked using the <code>&lt;link&gt;</code> tag.</li>
+          <li><b>Embedded Styles:</b> Defined within <code>&lt;style&gt;</code> tags.</li>
+          <li><b>Inline Styles:</b> Applied directly in the <code>style</code> attribute.</li>
+        </ul>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Reflection -->
+  <section id="reflection" style="text-align:center; margin-top:50px;">
+    <div style="background-color:#fff9ec; border:2px solid #f5da8d; border-radius:15px; padding:15px;">  
+      <h2 style="color:#50bdec;">Reflection</h2>
+      <p style="color:#357f9b; margin:15px auto; width:80%; line-height:1.6;">
+        Learning CSS and HTML taught me how design and content come together so nicely, and the fact it aesthetically pleasing and informative when you look and share it to others. I realized that every color or font have its their own purpose and even small details can change the vibes the website has. My favorite part was finding a theme so i can use colors and fonts using CSS to make it pretty and easy to create. (๑•̀ㅂ•́)و✧
+      </p>
+    </div>
+  </section>
+
+  <!-- Events -->
+  <section id="events" style="text-align:center; margin-top:40px;">
+    <h2 style="color:#f5da8d;">Events</h2>
+    <a href="Images/myICTwork.jpg" target="_blank">
+      <img src="Images/myICTwork.jpg" alt="My ICT Output" 
+           style="width:200px; border-radius:10px; border:3px solid #ee8bb0; transition:transform 0.3s; cursor:pointer;"
+           onmouseover="this.style.transform='scale(1.1)';"
+           onmouseout="this.style.transform='scale(1)';">
+    </a>
+  </section>
+
+  <div style="text-align:center; margin-top:25px; font-size:12px; color:#357f9b;">
+    <p>♡</p>
+  </div>
+
+</div>
+</body>
+</html>
+
